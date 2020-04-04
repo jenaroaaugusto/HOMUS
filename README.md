@@ -1,5 +1,5 @@
 # HOMUS
-Imagens geradas utilizando os dados e ferramenteas, a partir das informaçoes fornecidas 
+Imagens geradas utilizando os dados e ferramentas fornecidas pelo
 https://github.com/apacha/OMR-Datasets
 
 Original 
