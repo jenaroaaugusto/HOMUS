@@ -1,6 +1,6 @@
 # HOMUS
-Imagens geradas utilizando os dados e ferramentas fornecidas pelo
+Images generated using the data and tools provided by
 https://github.com/apacha/OMR-Datasets
 
-Original 
+Source
 https://github.com/apacha/Homus
